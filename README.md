@@ -8,8 +8,8 @@
 This portfolio documents my work readiness training, including career counseling, skills assessment, and CV development.  
 
 ### **Sections**  
-1. [Career Counseling](#career-counselling)  
-2. [Skills & Interests](#skills-and-interests)  
+1. [Career Counseling](#career-counselling.md)  
+2. [Skills & Interests](#skills-interests.md)  
 3. [Personality Assessment](#personality-assessment)  
-4. [CV Creation](#cv)  
-5. [CV Submission](#cv-submission)  
+4. [CV Creation](#cv.md)  
+5. [CV Submission](#cv-submission.md)  
