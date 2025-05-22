@@ -1,8 +1,7 @@
 # **Personality Assessment**  
 
 ## **Evidence**  
-- Screenshot of personality test results (e.g., Myers-Briggs).  
-- Summary of strengths/weaknesses.  
+![Screenshot 2025-05-22 222803](https://github.com/user-attachments/assets/fd30e157-303b-4547-996b-789a6d8694a1)
 
 ## **Reflection (STAR Technique)**  
 - **Situation:** [I didn’t know how my personality affects my work style.]  
