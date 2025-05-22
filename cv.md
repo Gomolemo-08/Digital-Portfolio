@@ -1,8 +1,8 @@
 # **CV Creation**  
 
 ## **Evidence**  
-- Link to/download your CV (PDF format).  
-- Brief explanation of CV structure.  
+
+[Resume.docx](https://github.com/user-attachments/files/20400451/Resume.docx)
 
 ## **Reflection (STAR Technique)**  
 - **Situation:** [I had no professional CV.]  
