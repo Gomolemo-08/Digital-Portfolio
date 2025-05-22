@@ -5,8 +5,8 @@ Here's a screenshot of my cv submission
 ![Screenshot 2025-05-22 224020](https://github.com/user-attachments/assets/4ded396d-fb5b-4590-91e2-7995151c2d1d)
 
 Here is a screenshot of my revamped cv
-[Resume.docx](https://github.com/user-attachments/files/20400229/Resume.docx)
 
+[Resume.docx](https://github.com/user-attachments/files/20400427/Resume.docx)
 
 
 ## **Reflection (STAR Technique)**  
